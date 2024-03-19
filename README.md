@@ -1,10 +1,10 @@
-# Jarvis Voice Assistant
+# Personalized Voice Assistant - Jarvis
 
 Jarvis Voice Assistant is a Python script that utilizes speech recognition and various APIs to perform tasks like playing music on YouTube, providing information from Wikipedia, telling jokes, and more.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.7
 - Required Python libraries: `speech_recognition`, `pyttsx3`, `pywhatkit`, `datetime`, `wikipedia`, `pyjokes`
 
 ## Installation
@@ -21,7 +21,7 @@ Jarvis Voice Assistant is a Python script that utilizes speech recognition and v
     ```
     python main.py
     ```
-2. Once the script is running, Jarvis will greet you and listen for your command.
+2. Jarvis will greet you once the script runs and listen to your command.
 3. You can give commands like:
     - "Play [song name]" to play a song on YouTube.
     - "What is [query]" or "Who is [query]" to get information from Wikipedia.
